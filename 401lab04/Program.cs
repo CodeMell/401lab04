@@ -1,4 +1,4 @@
-﻿using _401lab04;
+﻿using ;
 using System;
 
 namespace Lab04_TicTacToe
